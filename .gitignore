@@ -1,3 +1,6 @@
+# Data files
+data/
+
 # Files to be ignored (file with keys)...
 secrets.yaml
 secrets/
